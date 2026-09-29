@@ -6,4 +6,4 @@ build
 .DS_Store
 .hintrc
 .gitpod.yml 
-.env
+.envcloudflared.exe
